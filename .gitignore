@@ -1,5 +1,8 @@
-optimized
-original
+/optimized/*
+/original/*
 
 .DS_Store
 node_modules
+
+!/optimized/.gitkeep
+!/original/.gitkeep
